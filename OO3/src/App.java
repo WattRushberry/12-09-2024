@@ -5,7 +5,7 @@ public class App {
         diamond.display();
 
         Member gold = new Gold("Watt", 1000);
-        System.out.println("gold info: ");
+        System.out.println("Gold info: ");
         gold.display();
 
         Member silver = new Silvy("Watt", 1000);
