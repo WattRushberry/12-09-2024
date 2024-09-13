@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Member diamond = new Diamond("Watt", 1000);
-        System.out.println("Diamond info: ");
+        System.out.println("Platinum info: ");
         diamond.display();
 
         Member gold = new Gold("Watt", 1000);
